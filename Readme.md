@@ -69,6 +69,11 @@ pip install opencv-python ultralytics paddleocr numpy matplotlib
 ```bash
 python main.py
 ```
+## Results
+
+Here is an example of a saved license plate image:
+
+![License Plate](save/KA02MN1826.png)
 
 ## Notes
 - The system can be customized to work with different types of license plates by retraining the YOLO model with new data.
